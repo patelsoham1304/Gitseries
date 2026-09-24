@@ -1,6 +1,6 @@
 n = int(input("Enter the number:"))
 li=[]
-
+# i love gauriiii
 for i in range(n):
     k = int(input("Enter the number:"))
     li.append(k)
