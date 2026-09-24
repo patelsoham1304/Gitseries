@@ -1,7 +1,6 @@
 n = int(input("Enter the number:"))
 li=[]
-#hello asad gadha hai
-#jaapu gadha hai
+# i hate gauri and archita
 for i in range(n):
     k = int(input("Enter the number:"))
     li.append(k)
